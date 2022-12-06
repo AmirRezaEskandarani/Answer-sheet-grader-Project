@@ -19,7 +19,7 @@
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-# [Answer sheet grader Project] <a name="about-project"></a>
+# Answer sheet grader Project <a name="about-project"></a>
 > a decorative picture or a screenshot of the project results.
 > a discription of project in about a paragraph.
 
